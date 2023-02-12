@@ -1,2 +1,2 @@
-# Chekpoint
-learn_git Diene thiam 
+# learn_git
+Gomycode Diene thiam
